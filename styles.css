@@ -15,7 +15,7 @@ body{
     height: 100vh;
 }
 
-.button{
+.key{
     text-align: center;
     background-color: rgba(53, 48, 39, 0.445);
     border: 3px solid black;
