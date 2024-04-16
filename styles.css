@@ -26,6 +26,13 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    transition: all 0.07s;
+}
+
+.pressed{
+    transform: scale(1.4);
+    border-color: yellow;
+    box-shadow: 0 0 10px yellow;
 }
 
 kbd{
